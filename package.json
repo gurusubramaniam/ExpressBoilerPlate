@@ -1,0 +1,23 @@
+{
+  "name": "rasas",
+  "version": "1.0.0",
+  "description": "App for rasas kitchen",
+  "main": "rasasServer.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "rasas",
+    "kitchen",
+    "cooking",
+    "ravishankar",
+    "thiyagarajan",
+    "shakeela",
+    "ravi"
+  ],
+  "author": "gurusubramaniam sundararaman",
+  "license": "BSD",
+  "dependencies": {
+    "express": "^4.12.3"
+  }
+}

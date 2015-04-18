@@ -1,19 +1,15 @@
 {
-  "name": "rasas",
+  "name": "ExpressApp",
   "version": "1.0.0",
-  "description": "App for rasas kitchen",
+  "description": "App using Express JS",
   "main": "rasasServer.js",
   "scripts": {
     "test": "test"
   },
   "keywords": [
-    "rasas",
-    "kitchen",
-    "cooking",
-    "ravishankar",
-    "thiyagarajan",
-    "shakeela",
-    "ravi"
+   "Express",
+    "BoilerPLate",
+   "ExpressBoilerPLate"
   ],
   "author": "gurusubramaniam sundararaman",
   "license": "BSD",

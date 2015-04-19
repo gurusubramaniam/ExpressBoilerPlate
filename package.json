@@ -7,13 +7,14 @@
     "test": "test"
   },
   "keywords": [
-   "Express",
+    "Express",
     "BoilerPLate",
-   "ExpressBoilerPLate"
+    "ExpressBoilerPLate"
   ],
   "author": "gurusubramaniam sundararaman",
   "license": "BSD",
   "dependencies": {
+    "ejs": "^2.3.1",
     "express": "^4.12.3"
   }
 }

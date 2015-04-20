@@ -12,7 +12,7 @@ var loggerApi = {
 
 	responseErrorLogger: function(err, req, res, next){
         console.log("Route", req.path , "Method", req.method, "Time", getTime());
-		res.status(404).send('HEY !!! ITS 404');
+		res.status(404).send('HEY !!! ITS 404 Page Not found');
         return next();
 	}
 };

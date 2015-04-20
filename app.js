@@ -6,6 +6,9 @@ var express = require('express'),
 app.set('view engine', 'html');
 app.engine('html', require('ejs').renderFile);
 
+//Set to load the Static CSS/JS files
+app.use(express.static('public'));
+
 //Middleware for routes logging the url and time.
 app.use(logger.routeLogger);
 
